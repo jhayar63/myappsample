@@ -1,2 +1,0 @@
-# myappsample
-testing purposes
